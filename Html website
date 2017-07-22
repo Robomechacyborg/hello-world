@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>Data</head>
+<body>
+<h2>Data</h2>
+<p>This site is a test and these are its purposes:</p>
+<ul>
+<li>Show what html can do</li>
+<li>Show what the author can do</li>
+<li>Promote people to listen to Megadeth</li>
+<li>Be cool</li>
+</ul>
+<p>onother way:</p>
+<ol>
+<li>Show what html can do</li>
+<li>Show what the author can do</li>
+<li>Promote people to listen to Megadeth</li>
+<li>Be cool</li>
+</ol>
+
+</body>
+</html>
